@@ -1,0 +1,6 @@
+Instructions for simulations
+
+1) Run HW01_Tirel_Mat.m
+2) Run HW01_Tirel_Sim.slx
+3) Run HW01_Tirel_Plots.m
+
